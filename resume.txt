@@ -1,0 +1,88 @@
+MICHAEL A. HALE 
+524 Lee St. 
+Holly Springs, NC 27540
+Mobile: 919.961.7171
+e-mail: mikehale@gmail.com
+blog  : http://michaelahale.com
+
+PROFESSIONAL SUMMARY 
+
+Experienced network administrator and software developer:  Seven years of cross platform network administration with small companies, 7 years of object-oriented application development, and 11 years experience in website development. Particular expertise in Java, Ruby, Linux, OS X, Windows and related technologies. Experienced with Extreme Programming (XP). Sharp, quick learner, effective team member willing to take initiative, creative problem solver.
+
+TECHNICAL SKILLS 
+
+Operating Systems: Linux (Debian, Gentoo, Redhat, IPCop), OS X (Jaguar, Panther, Tiger), Windows 
+
+Network Services: SSH, DNS (ISC BIND), DHCP (ISC), rsync, Samba, VNC, RDP, OpenVPN, HTTP (Apache, Tomcat, JBoss, Webrick, Mongrel), distcc, UPNP, Zeroconf. 
+
+Languages & APIs: Java J2SE+J2EE(Swing, SWT, Java On Sails, Servlets, JDBC, XML, JNI, Java Server Faces(pre 1.0)), Ruby (Ruby On Rails, DBI, WEBrick) JavaScript, Ajax, XML-RPC, Python (TurboGears), PHP, WML/HTML/XML/XSL/CSS, ASP, PERL 5, SQL, PHP, VisualBasic 6.0, VBScript 
+
+Tools: Continuum, AntHill, CruiseControl, Unattended, Hibernate, tcpdump, Ant, make, Maven, Jakarta Velocity, JUnit, HttpUnit, JSUnit, TextMate, VI, Eclipse, VisualAge for Java (VAJ), Subversion, CVS, ClearCase, Visual Source Safe, InstallAnyWhere, HSQLDB, MySQL, Oracle, MS SQL Server, ccache, Trac, Wordpress, Webmin, OpenOffice/NeoOffice, MS Office, Macromedia DreamWeaver/FireWorks/Flash, MS Front Page. 
+
+EDUCATION & TRAINING 
+- A.S. in Computer Programming (with Honors), Fayetteville Technical Community College, 2001 
+- Tutorial - Refactoring: Improving The Design of Existing Code, by Martin Fowler (http://www.martinfowler.com/), 2001 
+- Tutorial - Introduction to Object-Oriented Thinking and Techniques, by Ken Auer (http://c2.com/cgi/wiki?KenAuer), 2000 
+
+VOLUNTEER SERVICE 
+|| Java on Sails Project Contributor 2005-Present 
+Helped design and implement HTTP download component using Servlet API.  Helped setup automated builds for project using Ant, Maven, and Continuum.  I currently maintain the Wordpress blog (http://blog.opensails.org/).
+
+|| JAARS, Inc. Software Developer September 2005
+While at JAARS I learned python and used python and TurboGears to build a small application used to edit Subversion access files.  The application itself had levels of access which allowed the system administrator to delegate management of specific subversion repositories to others.
+
+
+PROFESSIONAL EXPERIENCE 
+
+|| Software Developer, System Administrator 
+|| Hale The Geek, LLC. Holly Springs, NC Feb. 2005 - Present 
+
+* Customer work (Sept. 2006 - Present) 
+- Install and troubleshoot Linux server software.  Ruby on Rails deployment with deprec. Linux infrastructure consulting.  Windows and Mac OSX upgrade and repair. 
+
+* TheraSim, Inc. (Contract work) Nov. 2006 - Mar. 2007
+TheraSim is a startup in the healtcare industry with the goal of "Improving and Monitoring the Quality of Clinical Practice".  In late 2006 they needed help enhancing their phone and data infrastructure. 
+
+While at TheraSim I worked closely with my technical contact Hank Head to prioritize work and provide the greatest value possible to TheraSim.  Designed and setup multiple secure remote phone extensions for key employees using site-to-site VPN, and routing technologies.  I also installed and configured web based tools for internal office use on multiple Redhat servers including Apache, Trac, logwatch, Radiant CMS, and Subversion.  Before I arrived TheraSim had no firewall and no internal DNS.  I setup an IPCop firewall box to protect their public servers and provide DNS for their internal network.  To consolidate shared files and ensure that all important files were backed up I setup a Redhat file server with disk-to-disk backup using Samba and rsnapshot.  Documented work with written SOPs, and a network diagram.  Provided on-call tech support for employees.  Tools: Linux (Fedora Core5, Cent OS 4.4, IPCop 1.4), Subversion, Trac, Radiant CMS, rsnapshot/rsync, logwatch, cron, tcpdump, TCP/IP routing, OpenVPN.
+
+
+* RoleModel Software, Inc. (Contact work) Feb. 2005 - Sept. 2006
+With 20+ contractors providing software development services for various organizations RoleModel required someone to handle the daily administrative tasks; both technical and operational.  In addition to the administrative tasks I also participated in software development on the inforsense and mybiblestudy.com projects.
+
+As a software developer and system administrator at RoleModel I was uniquely positioned to understand the concerns of both positions.  On the inforsense and mybiblestudy.com projects I naturally gravitated to the position of being primarily concerned with builds, and deployment; release engineering.
+
+- Inforsense Prototype Project - Worked with a small team of software developers at the customer site to develop a prototype application using the Inforsense framework.  Key member in creating wrapper layer to ease interaction with complex Inforsense APIs.  Used ant to build and deploy project to test servers.  Helped write and customize maven plugins to support 2nd phase of build and deployment process.  Coordinated with Inforsense developers in the UK for updates and support.  Provided daily status reports to customers and project sponsor.  Tools: Ant, Maven, Java (J2SE, ODBC, Servlets), JUnit, AJAX, Inforsense, Jakarta (Velocity, Commons), Subversion, Eclipse, CruiseControl, MediaWiki, Oracle, Solaris, Extreme Programming.
+
+- Mybiblestudy.com Project - Collaborated with a team of software developers at RoleModel Software's studio to build the object model, front and back end of a key website for Lifeway.  I was involved in the day to day customer interaction, key technical, and architectural decisions, and deployment to lifeway's servers.  I implemented an innovative release procedure to speed up deployment to the remote servers by transferring only the binary changes in our WAR file.  I also increased accuracy of the builds by writing Ant scripts for previously non-scripted portions of the build.  Tools: Ant, Subversion, Eclipse, Java (J2SE, ODBC, Servlets), Ruby, JUnit, HttpUnit, Hibernate, Java On Sails, Linux (Debian, Redhat), Trac, HSQLDB, MS SQL Server, Extreme Programming.
+
+
+|| Linux Expert, Buildmeister 
+|| CipherOptics, Inc. Raleigh, NC Oct. 2003 - Feb. 2005 
+
+CipherOptics introducded the world to the wirespeed gigabit ipsec encryption appliance. I was hired to provide Linux expertise and to enhance their build system. 
+
+- SSL-VPN Project - Customized Debian Linux to be an effective platform for software VPN builds from India team.  Packaged Debian Linux and software into a reproducible build.  Provided strategic technology analysis for hardware platform, authentication system, and network integration (routing vs. bridging).  Conducted demos for executive team.  Tools: SSH, Linux (Debian), Ruby, OpenVPN, mysql, PHP, make, ClearCase, Subversion.
+
+- Buildmeister - Completely re-wrote the existing ant scripts to  to extract the build configuration to one location and simplify initial installation.  After the re-write I was able to seamlessly add support for ccache and distcc to reduce the typical build time from hours to minute.  Scripted telnet CLI to setup hardware device for testing a clean build using Ruby and ant.  Tools: Ant, CruiseControl, AntHill, SSH, ccache, distcc, make, Ruby, Eclipse, Linux, ClearCase, InstallAnyWhere, Subversion. 
+
+
+|| Software Developer, Webmaster, System/Network Administrator 
+|| RoleModel Software, Inc. Holly Springs, NC Jul. 2000 - Oct. 2003 
+
+RoleModel was founded in 1997 to help entrepreneurs and intrapreneurs develop custom software to create tomorrow's products. RoleModel has deep expertise in Extreme Programming (XP) and Test driven design.
+
+I was instrumental in designing setting up and maintaining the network and linux servers at RoleModel.  I setup file servers, firewalls, compiled kernels, got *really* comfortable with the linux command line, setup wireless access points, configured workstations, ordered equipment and supplies, and planned for usage changes (both increasing and decreasing).  During the course of these projects I used and learned about these tools and technologies: Debian Linux(kernel compilation, deb and source packages, permissions), RAID, SCSI, OnStream DL 30 backup tape drive, disk based backups, Samba, CVS, Apache 1.3 + Tomcat4 (mod_jk2), Webmin, ProFTPD, SSH, DNS (ISC BIND), DHCP (ISC), netfilter/iptables (custom router).
+
+While at RoleModel I also had the opportunity to work as a software developer.  All of the many projects I worked on used the Extreme Programming methodology.  I participated in all development activities including: Sales meetings, Analysis and design, Development, Testing, Customer updates, Documentation, and Packaging and delivery.  I also had the benefit of working with folks from all different types of business including: A Global 500 pharmaceuticals company, a local garage (Thompson Automotive Labs), a christian publishing company (Lifeway), and 4 different startups (Bonita, CipherOptics, AdRelief, Thompson Automotive Labs).  On the Seminar Registration and Lifeway projects I helped mentor two developers.  On most of the other projects (Thompson Automotive Labs, Lifeway, Vincture, CryptoView, ValueCube, ToGo Prototype, JAccept) I worked with a small team of highly collaborative developers to provide tested code to the customers on a regular schedule.  
+
+My first project at RoleModel was the "Shopper's Kiosk Prototype" and is still one of my favorite because I learned so many new and fascinating things so quickly and because I got to work with Chris Carpenter one of the funniest and most diverse people I know.  
+
+Over the course of my software development career at RoleModel I was involved with these tools and technologies:  Linux(Redhat 7, Debian Woody), Ruby(DBI, WEBrick, test/unit), Java (JNI, SWT, Servlets, JSP, Swing, Applets), VBScriptAnt, PERL, JavaScript, Smalltalk, HTTP, XML-RPC, HTML, WML, CSS, XML/XSL, DOM4J, VI, Eclipse, Visual Interdev, IBM Visual Age for Java 3.5, Macromedia Dreamweaver 4.0, Macromedia Flash, Ant, JUnit, JSUnit, SQL, CVS, Visual Source Safe, Apache, Tomcat, Test Driven Design, Extreme Programming.
+
+|| Webmaster 
+|| Aaims Property Management Fayetteville, NC 1996-2001 
+
+Aaims Property Management provides manages and rents homes in the greater Fayetteville area.  Prior to 1996 Aaims had no web presence. 
+
+- Created and maintained company website (www.rentrentrent.com). Added ASP and MSAccess database backend to make the site dynamically searchable. Customers said that site is best designed and easiest to use real estate site in Fayetteville area. Tools: HTML, ASP, MSAccess 97, MS FrontPage. 
+- Installed hardware and software to support the business.
